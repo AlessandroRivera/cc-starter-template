@@ -1,2 +1,3 @@
-# cc-starter-template
-Este repositorio sirve como plantilla para las asignaciones de programación en C++. Contiene el código base para iniciar proyectos:
+# Laboratorio 2 - Funciones y estructuras estáticas
+
+El objetivo de este laboratorio aprenderás sobre el uso de funciones y variables estáticas, así como la implementación de estructuras de datos estáticas en C++. Además, de que el aprendas a aplicar estos conceptos en la resolución de problemas de programación.
